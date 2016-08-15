@@ -2,6 +2,8 @@
 Simple web gallery implemented in PHP and Javascript.
 Suitable to put into subfolder on your domain (ex. domain.com/gallery).
 
+Check demo here: http://htmlpreview.github.io/?https://github.com/biserx/Simple-Grid-Photo-Gallery/blob/master/demo.html
+
 Presents photos in grid style like Pinterest or like Google Keep presents notes. 
 Uses infinity scroll which enables fast initial page load, but adds photos as user scroll down. 
 Mobile friendly.
